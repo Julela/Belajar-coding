@@ -1,6 +1,9 @@
 PHP dasar
 Laravel
 Java Script
+*Angular
+*react
 CodeIgniter
 Flutther
 C++
+Ruby
