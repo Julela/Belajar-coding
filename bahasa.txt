@@ -1,7 +1,8 @@
 PHP dasar
 Laravel
+*Laravel
 Java Script
-*Angular
+*vue.js
 *react
 CodeIgniter
 Flutther
